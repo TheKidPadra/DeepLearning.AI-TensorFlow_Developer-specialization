@@ -1,3 +1,5 @@
+# TensorFlow Developer specialization on Coursera Offered by [<img src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/DeepLearningAILogo.png" width="200"/>](https://www.deeplearning.ai)
+
 
 
 ## Courses
