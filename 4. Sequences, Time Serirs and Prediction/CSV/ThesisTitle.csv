@@ -1,0 +1,98 @@
+,b_title,year,download
+41,Bias and debias in recommender system: A survey and future directions,2023,True
+95,A survey on conversational recommender systems,2021,True
+80,Artificial intelligence in recommender systems,2021,True
+63,The recommender system: a survey,2020,False
+94,Surprise: A Python library for recommender systems,2020,True
+49,Recommender systems and their ethical challenges,2020,True
+50,"Sequential recommender systems: challenges, progress and prospects",2019,True
+3,Deep learning based recommender system: A survey and new perspectives,2019,True
+67,Recommender systems challenges and solutions survey,2019,False
+28,Conversational recommender system,2018,True
+40,Diversity in recommender systems–A survey,2017,True
+60,A collaborative approach for research paper recommender system,2017,True
+25,An introduction to recommender systems,2016,False
+33,Wide & deep learning for recommender systems,2016,True
+90,Towards conversational recommender systems,2016,True
+32,Paper recommender systems: a literature survey,2016,True
+89,Towards reproducibility in recommender-systems research,2016,True
+21,"The netflix recommender system: Algorithms, business value, and innovation",2015,True
+1,Recommender system application developments: a survey,2015,False
+51,Data mining methods for recommender systems,2015,True
+42,Panorama of recommender systems to support learning,2015,True
+78,"Trends, problems and solutions of recommender system",2015,False
+17,Recommender systems: introduction and challenges,2015,True
+69,Evaluating recommender systems with user experiments,2015,True
+65,A movie recommender system: Movrec,2015,True
+73,On unexpectedness in recommender systems: Or how to better expect the unexpected,2014,True
+84,How should I explain? A comparison of different explanation types for recommender systems,2014,True
+96,Mobile recommender systems in tourism,2014,False
+16,Recommender systems survey,2013,True
+72,SMARTMUSEUM: A mobile recommender system for the Web of Data,2013,False
+64,Introducing Docear's research paper recommender system,2013,False
+55,Explaining the user experience of recommender systems,2012,True
+19,Evaluating recommender systems,2012,False
+91,Lars: A location-aware recommender system,2012,True
+34,TasteWeights: a visual interactive hybrid recommender system,2012,True
+62,Evaluating recommender systems from the user's perspective: survey of the state of the art,2012,True
+70,Recommender systems: from algorithms to user experience,2012,True
+23,A literature review and classification of recommender systems research,2012,False
+2,Recommender systems,2012,True
+57,A user-centric evaluation framework for recommender systems,2011,True
+61,Streamrec: a real-time recommender system,2011,True
+53,Evaluating recommendation systems,2011,True
+68,Second workshop on information heterogeneity and fusion in recommender systems (HetRec2011),2011,False
+38,Content-based recommender systems: State of the art and trends,2011,True
+27,Recommender systems with social regularization,2011,True
+24,Recommender systems: An overview,2011,True
+6,MyMediaLite: A free recommender system library,2011,True
+92,Collaborative filtering recommender systems,2011,True
+75,Recommender systems in technology enhanced learning,2011,True
+76,Designing and evaluating explanations for recommender systems,2010,True
+56,An energy-efficient mobile recommender system,2010,True
+87,"A scalable, accurate hybrid recommender system",2010,True
+93,Group recommender systems: Combining individual models,2010,True
+46,Temporal diversity in recommender systems,2010,True
+14,Recommender systems.,2010,False
+12,Introduction to recommender systems handbook,2010,True
+30,Context-aware recommender systems,2010,True
+35,Mobile recommender systems,2010,True
+52,Empirical analysis of the impact of recommender systems on sales,2010,False
+59,MoviExplain: a recommender system with explanations,2009,False
+81,State-of-the-art recommender systems,2009,False
+82,Matrix factorization techniques for recommender systems,2009,True
+29,Scienstein: A research paper recommender system,2009,True
+20,Evaluation of recommender systems: A new approach,2008,False
+4,Hybrid web recommender systems,2007,False
+47,A survey of e-commerce recommender systems,2007,False
+39,Trust-aware recommender systems,2007,False
+54,A survey of explanations in recommender systems,2007,True
+88,Being accurate is not enough: how accuracy metrics have hurt recommender systems,2006,False
+26,Trust in recommender systems,2005,False
+9,An MDP-based recommender system.,2005,True
+45,Explanation in recommender systems,2005,True
+71,Case-based recommender systems,2005,False
+44,Toward the next generation of recommender systems: A survey of the state-of-the-art and possible extensions,2005,False
+79,Using trust in recommender systems: an experimental analysis,2004,True
+77,Evaluating collaborative filtering recommender systems,2004,True
+48,Introduction to recommender systems: Algorithms and evaluation,2004,False
+13,Pocketlens: Toward a personal recommender system,2004,True
+37,Analysis of recommender systems algorithms,2003,False
+86,Fuzzy logic methods in recommender systems,2003,False
+58,Getting to know you: learning new user preferences in recommender systems,2002,False
+36,Travel recommender systems,2002,True
+83,Interaction design for recommender systems,2002,True
+31,The role of transparency in recommender systems,2002,True
+7,Hybrid recommender systems: Survey and experiments,2002,False
+5,PolyLens: A recommender system for groups of users,2001,True
+66,Beyond recommender systems: Helping people help each other,2001,True
+74,Expertise recommender: a flexible recommendation system and architecture,2000,True
+22,Knowledge-based recommender systems,2000,True
+85,Knowledge-based recommender systems,2000,False
+15,Recommender systems in e-commerce,1999,True
+0,Recommender systems,1997,True
+18,Recommender systems,0,False
+11,Recommender systems: an introduction,0,False
+10,A social network-based recommender system (SNRS),0,True
+8,Application of dimensionality reduction in recommender system-a case study,0,True
+43,Recommender systems for learning,0,False
