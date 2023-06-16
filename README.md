@@ -1,8 +1,4 @@
-# TensorFlow Developer specialization on Coursera Offered by [<img src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/DeepLearningAILogo.png" width="200"/>](https://www.deeplearning.ai)
 
-<p align="center"><img width="auto" src="https://github.com/TheKidPadra/DeepLearning.AI-TensorFlow_Developer-specialization/blob/main/Assets/Banner.png" /></p>
-
-Programming assignments from all courses in the Coursera [TensorFlow Developer specialization](https://www.coursera.org/professional-certificates/tensorflow-in-practice) offered by [`deeplearning.ai`](https://www.deeplearning.ai/courses/tensorflow-developer-professional-certificate/).
 
 ## Courses
 
