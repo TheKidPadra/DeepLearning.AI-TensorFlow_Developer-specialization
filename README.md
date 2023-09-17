@@ -1,4 +1,21 @@
+# TensorFlow Developer specialization on Coursera Offered by [<img src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/DeepLearningAILogo.png" width="200"/>](https://www.deeplearning.ai)
 
+<p align="center"><img width="auto" src="https://github.com/TheKidPadra/DeepLearning.AI-TensorFlow_Developer-specialization/blob/main/Assets/Banner.png" /></p>
+
+Programming assignments from all courses in the Coursera [TensorFlow Developer specialization](https://www.coursera.org/professional-certificates/tensorflow-in-practice) offered by [`deeplearning.ai`](https://www.deeplearning.ai/courses/tensorflow-developer-professional-certificate/).
+
+## Courses
+
+The [TensorFlow Developer specialization](https://www.coursera.org/professional-certificates/tensorflow-in-practice) on Coursera contains four courses:
+
+- Course 1: [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow?specialization=tensorflow-in-practice)
+- Course 2: [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow?specialization=tensorflow-in-practice)
+- Course 3: [Natural Language Processing in TensorFlow](https://www.coursera.org/learn/natural-language-processing-tensorflow?specialization=tensorflow-in-practice)
+- Course 4: [Sequences, Time Series and Prediction](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction?specialization=tensorflow-in-practice)
+
+## Specialization Info
+
+- TensorFlow is one of the most in-demand and popular open-source deep learning frameworks available today. The DeepLearning.AI TensorFlow Developer Professional Certificate program teaches you applied machine learning skills with TensorFlow so you can build and train powerful models.In this hands-on, four-course Professional Certificate program, you’ll learn the necessary tools to build scalable AI-powered applications with TensorFlow. After finishing this program, you’ll be able to apply your new TensorFlow skills to a wide range of problems and projects. This program can help you prepare for the Google TensorFlow Certificate exam and bring you one step closer to achieving the Google TensorFlow Certificate.
 
 ## Applied Learning Project
 ### By the end you’ll be able to:
